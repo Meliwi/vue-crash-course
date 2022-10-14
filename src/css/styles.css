@@ -1,0 +1,20 @@
+#card {
+  border: 0.05rem solid black;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+header {
+  background-color: #ffad05;
+  padding: 1.2rem 1rem 1.2rem 1rem;
+  color: white;
+  font-size: 1.2rem;
+}
+
+#card div {
+  padding: 1.2rem 1rem 1.2rem 1rem;
+}
+
+#card ul li {
+  list-style: none;
+}
